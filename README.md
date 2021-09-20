@@ -1,2 +1,13 @@
-# ProjetosBasicosHTML
-Repositório com projetos desenvolvidos na linguagem HTML em 2021. Esses foram os primeiros projetos que desenvolvi na linguagem, e meu objetivo com eles foi começar a aprender sobre o básico sobre a linguagem HTML.
+<h1>Projetos desenvolvidos em HTML ☕</h1> 
+
+<h2>--> Feito e desenvolvido por:</h2> 
+
+  <br/> - Ronaldo Mendonça Zica
+  [![Github Badge](https://img.shields.io/badge/-RonaldoZica-black?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/ronaldozica/)](https://www.github.com/ronaldozica/) |
+  [![Linkedin Badge](https://img.shields.io/badge/-RonaldoZica-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronaldo-zica/)](https://www.linkedin.com/in/ronaldo-zica/)
+
+<h2> 🔎 Descrição </h2> 
+<p> Projetos desenvolvidos durante o curso da RocketSeat introdutório ao HTML.</p>
+
+<h2> 💻 IDE utilizada para desenvolver os projetos </h2> 
+<p> VSCode (Visual Studio Code) </p>
