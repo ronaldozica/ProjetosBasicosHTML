@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tabela complexa</title>
+</head>
+
+<body>
+
+  <table>
+    <caption style="background-color: gold;"> Produtos produzidos VS vendidos por loja </caption>
+    
+    <colgroup>
+      <col>
+      <col span="2" style="background-color: lightblue;">
+      <col span="2" style="background-color: lightcoral;">
+    </colgroup>
+
+    <thead>
+      <tr>
+        <th rowspan="2"></th>
+        <th colspan="2" scope="colgroup"> Loja 1 </th>
+        <th colspan="2" scope="colgroup"> Loja 2 </th>
+      </tr>
+
+      <tr>
+        <th scope="col"> Produzidos </th>
+        <th scope="col"> Vendidos </th>
+        <th scope="col"> Produzidos </th>
+        <th scope="col"> Vendidos </th>
+      </tr>
+    </thead>
+
+    <tbody>
+      <tr>
+        <th style="background-color: lightgoldenrodyellow;" scope="row"> Garrafa </th>
+        <td> 10 </td>
+        <td> 2 </td>
+        <td> 25 </td>
+        <td> 19 </td>
+      </tr>
+
+      <tr>
+        <th style="background-color: lightgoldenrodyellow;" scope="row"> Copo </th>
+        <td> 50 </td>
+        <td> 27 </td>
+        <td> 100 </td>
+        <td> 12 </td>
+      </tr>
+
+    </tbody>
+  </table>
+
+</body>
+</html>
